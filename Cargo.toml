@@ -1,0 +1,15 @@
+[package]
+name = "try_rust_analyzer"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+home = "0.5.4"
+ra_ap_cfg = "0.0.149"
+ra_ap_ide = "0.0.149"
+ra_ap_ide_db = "0.0.149"
+ra_ap_project_model = "0.0.149"
+ra_ap_rust-analyzer = "0.0.149"
+ra_ap_vfs = "0.0.149"
+rustc-host = "0.1.7"
